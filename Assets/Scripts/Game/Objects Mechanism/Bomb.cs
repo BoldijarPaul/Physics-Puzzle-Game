@@ -10,11 +10,7 @@ public class Bomb : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		 
-		 
-		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
-		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
-		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
-		 
+
 			 
 
 	}

@@ -7,6 +7,15 @@ public class StateManager : MonoBehaviour {
 	void Start () {
 	
 	
+		
+		/*
+		 * save level
+		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
+		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
+		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
+		*/
+
+
 		/*
 		// load level
 		string contents;
