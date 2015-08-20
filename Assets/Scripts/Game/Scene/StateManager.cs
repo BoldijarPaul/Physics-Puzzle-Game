@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.IO;
 
 public class StateManager : MonoBehaviour {
 
@@ -8,12 +9,12 @@ public class StateManager : MonoBehaviour {
 	
 	
 		
+	
 		/*
-		 * save level
 		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
 		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
 		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
-		*/
+		 */
 
 
 		/*
@@ -22,9 +23,13 @@ public class StateManager : MonoBehaviour {
 		using (var wc = new System.Net.WebClient())
 			contents = wc.DownloadString("http://paulboss.site90.net/level.xml");
 
-		XMLLoader.InstantiateFromXML (contents);
+		StreamReader reader = new StreamReader ("level.xml");
 
-*/
+		XMLLoader.InstantiateFromXML (reader.ReadToEnd());
+		reader.Close ();
+		*/
+
+ 
 
 	}
 	
