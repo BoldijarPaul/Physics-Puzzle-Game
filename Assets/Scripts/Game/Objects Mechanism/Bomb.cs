@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Xml.Serialization;
 using System.IO;
-using UnityEditor;
 
 public class Bomb : MonoBehaviour {
 	public Vector2 BULLET_FORCE =new Vector2(-1000,0);

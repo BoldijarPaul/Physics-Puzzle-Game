@@ -1,7 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
+
 
 public class XMLSaver  {
 
@@ -9,9 +12,11 @@ public class XMLSaver  {
 	/* add all the properties from a game object to the Game Item model */
 	public static GameItem GameObjectToGameItem(GameObject gameObject)
 	{
+		#if UNITY_EDITOR
 		/* we found a gameobject that doesn't have a prefab */
 		if (EditorUtility.GetPrefabParent (gameObject) == null)
 			return null;
+
 		GameItem gameItem = new GameItem ();
 		gameItem.name = EditorUtility.GetPrefabParent(gameObject).name;
 		gameItem.position = gameObject.transform.position;
@@ -19,6 +24,9 @@ public class XMLSaver  {
 		gameItem.scale = gameObject.transform.localScale;
 
 		return gameItem;
+		#endif
+
+		return null;
 	}
 
 

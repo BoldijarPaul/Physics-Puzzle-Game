@@ -10,11 +10,11 @@ public class StateManager : MonoBehaviour {
 	
 		
 	
-		/*
+		 
 		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
 		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
 		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
-		 */
+		 
 
 
 		/*
