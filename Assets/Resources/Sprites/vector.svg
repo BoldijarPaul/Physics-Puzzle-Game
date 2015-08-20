@@ -24,7 +24,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.25609056"
      inkscape:cx="-1440.8395"
-     inkscape:cy="-2672.2554"
+     inkscape:cy="-2203.6712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3204,30 +3204,25 @@
            y="2993.9038">RESUME</tspan></text>
     </g>
     <g
-       id="g3578">
+       id="g3514"
+       inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"
+       transform="translate(1323.7505,-66.382772)">
       <rect
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
-         y="3836.4824"
-         x="-3427.813"
+         y="3582.666"
+         x="-4267.3599"
          height="690.05176"
          width="1203.7482"
          id="rect5572"
          style="fill:#d2691e;fill-opacity:1;stroke:none" />
       <path
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
          inkscape:connector-curvature="0"
          id="path5574"
-         d="m -3224.4363,3836.5048 c -56.5634,53.3698 -111.3225,136.2465 -161.9535,224.262 l 0,167.7991 c 102.7316,-125.9854 241.7988,-274.8487 328.5135,-373.5815 10.3333,4.3565 20.6556,8.6506 30.2249,12.9036 15.1038,6.7127 39.675,14.004 67.3459,21.1735 -96.1262,155.9243 -263.0206,438.8382 -412.238,637.4969 l 494.8042,0 c 11.2673,-146.8654 65.0825,-405.7988 105.7063,-596.335 82.4733,11.9536 234.5539,27.53 275.1486,35.2624 39.3867,7.502 121.5693,28.2652 187.2756,41.4042 -19.818,39.1755 -37.8169,73.6054 -53.4727,95.5235 -68.4435,95.8209 -9.9817,274.0216 10.6137,424.1449 l 86.9841,0 0,-511.7215 0,-28.5817 0,-41.7006 0,-24.2984 0,-9.8325 c -21.9225,-5.7913 -46.2597,-11.4755 -67.1574,-16.3516 -69.264,-16.1616 -281.8517,-36.7924 -409.679,-57.5673 l -9.6978,0 -130.3009,0 -45.1487,0 c -3.6966,5.7965 -7.6524,12.0766 -11.7183,18.5605 -16.1528,-5.5382 -32.9472,-11.6901 -50.5364,-18.5605 l -52.0179,0 -56.6515,0 -126.0447,0 z m 934.9775,0 c 8.4264,1.744 16.4693,3.4168 23.9751,5.0104 l 0,-5.0104 -23.9751,0 z m -468.0006,25.4567 c 103.7599,17.0507 224.1416,31.2015 258.2044,36.8786 47.548,7.9246 142.8872,38.9043 221.5682,44.9602 -6.0427,11.7886 -11.9409,23.4262 -17.7255,34.9122 -25.0749,-5.7942 -55.3584,-11.5214 -89.597,-15.5973 -99.9683,-11.9011 -64.2751,-11.9126 -130.9206,-23.8135 -62.827,-11.2193 -178.4885,-28.7589 -249.3685,-40.704 2.7287,-12.7648 5.2914,-24.7117 7.839,-36.6362 z m 212.2206,459.0839 c -52.4907,0.4232 -130.1855,103.4385 -209.4729,205.513 l 305.616,0 c -16.7446,-46.0993 -32.697,-97.1181 -45.2835,-144.7669 -11.4132,-43.2071 -28.9267,-60.9229 -50.8596,-60.7461 z"
+         d="m -4063.9831,3582.6884 c -56.5634,53.3698 -111.3225,136.2465 -161.9535,224.262 l 0,167.7991 c 102.7316,-125.9854 241.7988,-274.8487 328.5135,-373.5815 10.3333,4.3565 20.6556,8.6506 30.2249,12.9036 15.1038,6.7127 39.675,14.004 67.3459,21.1735 -96.1262,155.9243 -263.0206,438.8382 -412.238,637.4969 l 494.8042,0 c 11.2673,-146.8654 65.0825,-405.7988 105.7063,-596.335 82.4733,11.9536 234.5539,27.53 275.1486,35.2624 39.3867,7.502 121.5693,28.2652 187.2756,41.4042 -19.818,39.1755 -37.8169,73.6054 -53.4727,95.5235 -68.4435,95.8209 -9.9817,274.0216 10.6137,424.1449 l 86.9841,0 0,-511.7215 0,-28.5817 0,-41.7006 0,-24.2984 0,-9.8325 c -21.9225,-5.7913 -46.2597,-11.4755 -67.1574,-16.3516 -69.264,-16.1616 -281.8517,-36.7924 -409.679,-57.5673 l -9.6978,0 -130.3009,0 -45.1487,0 c -3.6966,5.7965 -7.6524,12.0766 -11.7183,18.5605 -16.1528,-5.5382 -32.9472,-11.6901 -50.5364,-18.5605 l -52.0179,0 -56.6515,0 -126.0447,0 z m 934.9775,0 c 8.4264,1.744 16.4693,3.4168 23.9751,5.0104 l 0,-5.0104 -23.9751,0 z m -468.0006,25.4567 c 103.7599,17.0507 224.1416,31.2015 258.2044,36.8786 47.548,7.9246 142.8872,38.9043 221.5682,44.9602 -6.0427,11.7886 -11.9409,23.4262 -17.7255,34.9122 -25.0749,-5.7942 -55.3584,-11.5214 -89.597,-15.5973 -99.9683,-11.9011 -64.2751,-11.9126 -130.9206,-23.8135 -62.827,-11.2193 -178.4885,-28.7589 -249.3685,-40.704 2.7287,-12.7648 5.2914,-24.7117 7.839,-36.6362 z m 212.2206,459.0839 c -52.4907,0.4232 -130.1855,103.4385 -209.4729,205.513 l 305.616,0 c -16.7446,-46.0993 -32.697,-97.1181 -45.2835,-144.7669 -11.4132,-43.2071 -28.9267,-60.9229 -50.8596,-60.7461 z"
          style="fill:#a85518;fill-opacity:0.27058824;stroke:none" />
       <g
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
-         transform="translate(-4874.0428,2400.8545)"
+         transform="translate(-5713.5896,2147.0381)"
          id="g5576">
         <g
            id="g5578">
@@ -3270,10 +3265,7 @@
         </g>
       </g>
       <g
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
-         transform="translate(-4874.0428,2210.6696)"
+         transform="translate(-5713.5896,1956.8532)"
          id="g5596">
         <g
            id="g5598"
@@ -3317,11 +3309,8 @@
         </g>
       </g>
       <g
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
          id="g5616"
-         transform="matrix(0,2.273304,-2.273304,0,3253.1902,-167.27574)">
+         transform="matrix(0,2.273304,-2.273304,0,2413.6434,-421.0922)">
         <g
            transform="matrix(1.2347126,0,0,1.2347126,1424.0427,-1033.7559)"
            id="g5618">
@@ -3338,10 +3327,7 @@
         </g>
       </g>
       <g
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_background.png"
-         transform="matrix(0,2.273304,2.273304,0,-8910.7562,-167.27584)"
+         transform="matrix(0,2.273304,2.273304,0,-9750.303,-421.0923)"
          id="g5624">
         <g
            id="g5626"
@@ -3358,9 +3344,14 @@
              inkscape:connector-curvature="0" />
         </g>
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5632"
+         d="m -4405.4586,4316.2265 c 2.6033,-6.5082 5.2065,-13.0163 7.8098,-19.5244 2.6032,-1.3016 6.0634,-1.5764 7.8097,-3.9049 2.4697,-3.2928 2.6033,-7.8097 3.9049,-11.7146"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.0086209,-0.34490451,0.34490451,1.0086209,-620.99697,284.82031)"
+       transform="matrix(1.0086209,-0.34490451,0.34490451,1.0086209,-117.26887,-50.998402)"
        id="g5650"
        inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\menu_star.png"
        inkscape:export-xdpi="60"
@@ -3392,25 +3383,25 @@
     <text
        sodipodi:linespacing="125%"
        id="text5638"
-       y="3996.2378"
-       x="-1996.3721"
+       y="4113.3838"
+       x="-2773.4409"
        style="font-size:80.84362793px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#49250b;fill-opacity:1;stroke:none;font-family:Segoe WP Black;-inkscape-font-specification:'Segoe WP Black, Ultra-Bold'"
        xml:space="preserve"><tspan
-         y="3996.2378"
-         x="-1996.3721"
+         y="4113.3838"
+         x="-2773.4409"
          id="tspan5640"
          sodipodi:role="line">HOME</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80.84362793px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#49250b;fill-opacity:1;stroke:none;font-family:Segoe WP Black;-inkscape-font-specification:'Segoe WP Black, Ultra-Bold'"
-       x="-1929.9894"
-       y="4148.5278"
+       x="-2207.2351"
+       y="4136.813"
        id="text5642"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5644"
-         x="-1929.9894"
-         y="4148.5278">RESUME</tspan></text>
+         x="-2207.2351"
+         y="4136.813">RESUME</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5646"
