@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 
 public class XMLSaver  {
 
@@ -9,7 +10,7 @@ public class XMLSaver  {
 	public static GameItem GameObjectToGameItem(GameObject gameObject)
 	{
 		GameItem gameItem = new GameItem ();
-		gameItem.name = gameObject.name;
+		gameItem.name = EditorUtility.GetPrefabParent(gameObject).name;
 		gameItem.position = gameObject.transform.position;
 		gameItem.rotation = gameObject.transform.eulerAngles;
 		gameItem.scale = gameObject.transform.localScale;

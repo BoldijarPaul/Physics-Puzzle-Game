@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Xml.Serialization;
 using System.IO;
+using UnityEditor;
 
 public class Bomb : MonoBehaviour {
 	public Vector2 BULLET_FORCE =new Vector2(-1000,0);
@@ -9,11 +10,11 @@ public class Bomb : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		 
-		/*
-		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType(typeof(GameObject));
+		 
+		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
 		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
-		FileHelper.SaveStringToFile ("D:/level1.xml",XMLHelper.ObjectToXML (items));
-		*/
+		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
+		 
 			 
 
 	}
