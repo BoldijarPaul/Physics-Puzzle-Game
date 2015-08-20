@@ -6,6 +6,13 @@ public class StateManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
+		// load level
+		string contents;
+		using (var wc = new System.Net.WebClient())
+			contents = wc.DownloadString("http://paulboss.site90.net/level.xml");
+
+		XMLLoader.InstantiateFromXML (contents);
+
 	}
 	
 	// Update is called once per frame
