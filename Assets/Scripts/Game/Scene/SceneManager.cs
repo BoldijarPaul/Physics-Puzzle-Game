@@ -2,11 +2,11 @@
 using System.Collections;
 using System.IO;
 
-public class StateManager : MonoBehaviour {
+public class SceneManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		UIManager.Load ();
 	
 		
 	
