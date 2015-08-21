@@ -10,11 +10,11 @@ public class SceneManager : MonoBehaviour {
 	
 		
 	
-		 
+		/* 
 		GameObject[] obj = (GameObject[])GameObject.FindObjectsOfType (typeof(GameObject));
 		GameItem[] items = XMLSaver.GameObjectsToGameItemArray (obj, "Static");
 		FileHelper.SaveStringToFile ("level.xml", XMLHelper.ObjectToXML (items));
-		 
+		 */
 
 
 		/*
@@ -22,12 +22,12 @@ public class SceneManager : MonoBehaviour {
 		string contents;
 		using (var wc = new System.Net.WebClient())
 			contents = wc.DownloadString("http://paulboss.site90.net/level.xml");
-
+ 
 		StreamReader reader = new StreamReader ("level.xml");
 
 		XMLLoader.InstantiateFromXML (reader.ReadToEnd());
 		reader.Close ();
-		*/
+		 */
 
  
 
