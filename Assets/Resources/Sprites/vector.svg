@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.090541686"
-     inkscape:cx="10828.414"
-     inkscape:cy="440.30577"
+     inkscape:zoom="0.25609056"
+     inkscape:cx="8796.4127"
+     inkscape:cy="-223.64174"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5188,129 +5188,129 @@
       </g>
     </g>
     <g
-       id="g4861">
-      <g
-         transform="matrix(0.46985745,0,0,0.46985745,3522.1568,424.51554)"
-         id="g4463">
-        <rect
-           y="707.3512"
-           x="7240.4512"
-           height="1000"
-           width="759.54895"
-           id="rect4461"
-           style="fill:#c56927;fill-opacity:1;stroke:none" />
-        <rect
-           y="707.3512"
-           x="7000"
-           height="1000"
-           width="500"
-           id="rect4451"
-           style="fill:#dc7020;fill-opacity:1;stroke:none" />
-        <rect
-           style="fill:#c56927;fill-opacity:1;stroke:none"
-           id="rect4459"
-           width="500"
-           height="1000"
-           x="7500"
-           y="707.3512" />
-      </g>
-      <g
-         inkscape:export-ydpi="60"
-         inkscape:export-xdpi="60"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\dialog_home.png"
-         id="g4468"
-         transform="matrix(0,2.9005587,2.9005587,0,-2986.3932,-1305.0229)">
-        <g
-           id="g4470"
-           transform="matrix(-1,0,0,1,1571.911,0)"
-           inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4472"
-             d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
-             style="fill:#4e9a06;fill-opacity:1;stroke:none" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4474"
-             d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
-             style="fill:#3f7c05;fill-opacity:1;stroke:none" />
-        </g>
-        <g
-           transform="translate(9.7620957,0)"
-           id="g4476"
-           inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
-           inkscape:export-xdpi="150"
-           inkscape:export-ydpi="150">
-          <path
-             style="fill:#4e9a06;fill-opacity:1;stroke:none"
-             d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
-             id="path4478"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#3f7c05;fill-opacity:1;stroke:none"
-             d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
-             id="path4481"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         transform="matrix(0,2.9005587,-2.9005587,0,17079.765,-1303.6423)"
-         id="g4483"
-         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\dialog_home.png"
-         inkscape:export-xdpi="60"
-         inkscape:export-ydpi="60">
-        <g
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
-           transform="matrix(-1,0,0,1,1571.911,0)"
-           id="g4485">
-          <path
-             style="fill:#4e9a06;fill-opacity:1;stroke:none"
-             d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
-             id="path4496"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#3f7c05;fill-opacity:1;stroke:none"
-             d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
-             id="path4501"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           inkscape:export-ydpi="150"
-           inkscape:export-xdpi="150"
-           inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
-           id="g4503"
-           transform="translate(9.7620957,0)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4505"
-             d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
-             style="fill:#4e9a06;fill-opacity:1;stroke:none" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4507"
-             d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
-             style="fill:#3f7c05;fill-opacity:1;stroke:none" />
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:339.12542725px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#49250b;fill-opacity:1;stroke:none;font-family:Segoe WP Black;-inkscape-font-specification:'Segoe WP Black, Ultra-Bold'"
-         x="6935.8672"
-         y="1114.479"
-         id="text4332-1"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="C:\Users\Browsing\Desktop\menu_star.png"
-         inkscape:export-xdpi="60"
-         inkscape:export-ydpi="60"><tspan
-           sodipodi:role="line"
-           id="tspan4334-7"
-           x="6935.8672"
-           y="1114.479">1</tspan></text>
+       id="g4463"
+       transform="matrix(0.46985745,0,0,0.46985745,3522.1568,424.51554)"
+       inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\level_box.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60">
+      <rect
+         style="fill:#c56927;fill-opacity:1;stroke:none"
+         id="rect4461"
+         width="759.54895"
+         height="1000"
+         x="7240.4512"
+         y="707.3512" />
+      <rect
+         style="fill:#dc7020;fill-opacity:1;stroke:none"
+         id="rect4451"
+         width="500"
+         height="1000"
+         x="7000"
+         y="707.3512" />
+      <rect
+         y="707.3512"
+         x="7500"
+         height="1000"
+         width="500"
+         id="rect4459"
+         style="fill:#c56927;fill-opacity:1;stroke:none" />
     </g>
+    <g
+       transform="matrix(0,2.9005587,2.9005587,0,-2986.3932,-1305.0229)"
+       id="g4468"
+       inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\level_box.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60">
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
+         transform="matrix(-1,0,0,1,1571.911,0)"
+         id="g4470">
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none"
+           d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
+           id="path4472"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3f7c05;fill-opacity:1;stroke:none"
+           d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
+           id="path4474"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
+         id="g4476"
+         transform="translate(9.7620957,0)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4478"
+           d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4481"
+           d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
+           style="fill:#3f7c05;fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="60"
+       inkscape:export-xdpi="60"
+       inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\level_box.png"
+       id="g4483"
+       transform="matrix(0,2.9005587,-2.9005587,0,17067.765,-1303.6423)">
+      <g
+         id="g4485"
+         transform="matrix(-1,0,0,1,1571.911,0)"
+         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4496"
+           d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
+           style="fill:#4e9a06;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4501"
+           d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
+           style="fill:#3f7c05;fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         transform="translate(9.7620957,0)"
+         id="g4503"
+         inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\platform_finish.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <path
+           style="fill:#4e9a06;fill-opacity:1;stroke:none"
+           d="m 732.15319,3353.8125 0,24.5 138.8125,0 c 0.006,-0.1981 0.0312,-0.3944 0.0312,-0.5937 l 0,-3.9063 c 0,-11.08 -8.92,-20 -20,-20 l -118.84375,0 z"
+           id="path4505"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#3f7c05;fill-opacity:1;stroke:none"
+           d="m 770.37194,3353.8125 c -1.7953,3.8708 -3.49771,8.9144 -4.84375,15.4375 -0.76621,3.7132 -1.42495,6.6791 -2,9.0625 l 17.53125,0 c -3.2464,-6.8359 0.0508,-16.7598 2.15625,-24.5 l -12.84375,0 z m 25.9375,0 c -1.60994,7.8328 -1.5391,18.6777 -2.21875,24.5 l 25.625,0 c -0.005,-0.2535 0,-0.4961 0,-0.75 0,-7.1687 -1.47395,-13.6323 -2.5,-23.75 l -20.90625,0 z m 71.96875,9.9063 c -0.43054,0.036 -0.83816,0.076 -1.21875,0.1562 -5.43802,1.1449 -14.87356,7.9818 -23.25,14.4375 l 27.15625,0 c 0.006,-0.1981 0.0312,-0.3945 0.0312,-0.5937 l 0,-3.9063 c 0,-3.6862 -0.99314,-7.1346 -2.71875,-10.0937 z"
+           id="path4507"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       inkscape:export-ydpi="60"
+       inkscape:export-xdpi="60"
+       inkscape:export-filename="C:\Users\Browsing\Desktop\menu_star.png"
+       sodipodi:linespacing="125%"
+       id="text4332-1"
+       y="1114.479"
+       x="6935.8672"
+       style="font-size:339.12542725px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#49250b;fill-opacity:1;stroke:none;font-family:Segoe WP Black;-inkscape-font-specification:'Segoe WP Black, Ultra-Bold'"
+       xml:space="preserve"><tspan
+         y="1114.479"
+         x="6935.8672"
+         id="tspan4334-7"
+         sodipodi:role="line">1</tspan></text>
     <g
        id="g4883"
        transform="translate(949.83873,0)">
@@ -5931,7 +5931,10 @@
    inkscape:connector-curvature="0"
    style="fill:#49250b;fill-opacity:1"
    d="M 12,4 C 12,1.791 10.209,0 8,0 5.791,0 4,1.791 4,4 4,5.596 4.935,6.974 6.287,7.615 L 4,16 h 8 L 9.713,7.615 C 11.065,6.974 12,5.596 12,4 z"
-   id="path5233" />
+   id="path5233"
+   inkscape:export-filename="D:\UnityProjects\Sample1\Assets\Resources\Sprites\lock.png"
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60" />
 
 </g>
         <g
