@@ -4,11 +4,16 @@ using System.Collections;
 public class MenuPanel : MonoBehaviour {
 
 
+
 	void Start () {
 	
+		RectTransform parentRectTransform = GetComponent<RectTransform> ();
+
 		GameObject levelBox=Resources.Load<GameObject> ("Prefabs/Level Box");
 
-		int y = 0;
+
+		int y = -120;
+		float height = 0;
 		for (int i=1; i<=10; i++) {
 			GameObject a = (GameObject)Instantiate (levelBox); 
 			a.transform.SetParent (transform, false);
@@ -16,6 +21,7 @@ public class MenuPanel : MonoBehaviour {
 			 
 			rectTransform.anchoredPosition=new Vector2(0,y);
 			y-=300;
+			height+=300;
 
 
 			if(Random.Range(-10,10)<0)
@@ -27,6 +33,8 @@ public class MenuPanel : MonoBehaviour {
 				a.GetComponent<UnlockedLevelBox>().setData(true,0);
 			}
 		}
+
+		parentRectTransform.sizeDelta=new Vector2(parentRectTransform.sizeDelta.x,height);
 	}
 	
 	// Update is called once per frame
